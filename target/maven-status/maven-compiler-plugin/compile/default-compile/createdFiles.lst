@@ -1,0 +1,5 @@
+es\monlau\student\entity\Student.class
+es\monlau\student\service\IStudentService.class
+es\monlau\student\service\StudentService.class
+es\monlau\student\StudentApplication.class
+es\monlau\student\repository\IStudentRepository.class
